@@ -1,7 +1,5 @@
-" Vim Syntax File
 " Language: Axon (via Trio files)
-" Maintainer: Brian Sullivan
-" Latest Revision: 16 June 2016
+" Latest Revision: 2016-06-20 
 
 if exists('b:current_syntax') 
   finish
